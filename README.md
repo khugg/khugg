@@ -3,14 +3,19 @@
   
 </p>
  
+<h1 align="center">👋 Hi there, I’m Viviane Huguette</h1>       
+<h3 align="center"> I'm interested in everything to do with new technologies.</h3>
 
-- 👋 Hi there, I’m @khugg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Azure Cloud
+  
+- 📫 How to reach me **kemshuggs@gmail.com**
+  
+- ⚡ Fun fact **I HAVE NO LIMITS**
+
+
+<h3 align="left">Connect with me:</h3>
+
+
 
   
  
