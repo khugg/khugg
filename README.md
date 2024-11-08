@@ -14,22 +14,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Viviane-huguette" height="30" width="40" /></a>
+</p>
+
 
 
 
   
  
-
-<p align="center">
-  <!img align="center" width="30%" src="https://cdn1.paris-medecine-esthetique.fr/wp-content/uploads/2021/04/profil-visage-dr-mayeux-medecine-esthetique-paris8-cover.jpg"/>
-  <!pour ajouter un gif je peux aller sur Giphy
-    <! [Image-profile](lien de l'image)
-
-</p>
-
- 
- 
-<!---
-khugg/khugg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
