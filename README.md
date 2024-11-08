@@ -13,12 +13,26 @@
 - ⚡ Fun fact **I HAVE NO LIMITS**
 
 
+
+
+ <h4> Here are the different goals I'd like to achieve by learning cloud engineering.:</h4>
+ 
+ - Develop Cloud Security Expertise
+ 
+ - Become proficient in tools like Terraform, Ansible, Docker,  or CloudFormation to automate infrastructure provisioning
+ 
+ - Obtain Cloud Certifications
+ 
+ - Network with Other Cloud Professionals
+ 
+ - Become a Cloud Architect and
+ 
+ - Develop Soft Skills
+
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Viviane-huguette" height="30" width="40" /></a>
-</p>
 
-
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/feed/)
 
 
   
