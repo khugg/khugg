@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&width=800&lines=Welcome+to+My+Cloud+Space!;Empowering+the+Cloud+Engineering+and+Data+Analysis+World;Learn+Docker%2C+Azure%2C+SQL%2C+and+DevOps+with+Me!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1500&color=F75C7E&center=true&width=800&lines=Welcome+to+My+Cloud+Space!;Empowering+the+Cloud+Engineering+and+Data+Analysis+World;Learn+Docker%2C+Azure%2C+SQL%2C+and+DevOps+with+Me!" alt="Typing SVG" />
 </p>
 
  
