@@ -19,11 +19,11 @@
 
 
 
- <h4> Here are the different goals I'd like to achieve by learning cloud engineering.:</h4>
+ <h4> Here are the different goals I'd like to achieve by learning cloud engineering and Data Analysis:</h4>
  
  - Develop Cloud Security Expertise
  
- - Become proficient in tools like Terraform, Ansible, Docker,  or CloudFormation to automate infrastructure provisioning
+ - Become proficient in tools like Terraform, Ansible, Docker, or CloudFormation to automate infrastructure provisioning
  
  - Obtain Cloud Certifications
  
@@ -32,6 +32,20 @@
  - Become a Cloud Architect and
  
  - Develop Soft Skills
+
+ - Strengthen skills in SQL, Python, and data cleaning
+
+ - Strengthen skills in SQL, Python, and data cleaning
+
+ - uild solid knowledge in statistics and data modeling
+
+ - Create real-world data projects for my portfolio
+
+ - Improve analytical thinking and problem-solving
+
+ - Grow toward a Data Analyst or BI Specialist role
+
+ 
 
 
 <h3 align="left">Connect with me:</h3>
