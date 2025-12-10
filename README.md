@@ -10,7 +10,7 @@
 <h1 align="center">👋 Hi there, I’m Viviane Huguette</h1>       
 <h3 align="center"> I'm interested in everything to do with new technologies.</h3>
 
-- 🌱 I’m currently learning Azure Cloud
+- 🌱 I’m currently learning Data Analysis and Azure Cloud
   
 - 📫 How to reach me **kemshuggs@gmail.com**
   
