@@ -35,8 +35,6 @@
 
  - Strengthen skills in SQL, Python, and data cleaning
 
- - Strengthen skills in SQL, Python, and data cleaning
-
  - uild solid knowledge in statistics and data modeling
 
  - Create real-world data projects for my portfolio
