@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Data Analysis and Azure Cloud
   
-- 📫 How to reach me **kemshuggs@gmail.com**
+- 📫 How to reach me **Vivihkemayou@outlook.com**
   
 - ⚡ Fun fact **I HAVE NO LIMITS**
 
